@@ -38,9 +38,4 @@ It allows users to add, search, edit, delete, list, and save contacts with input
 ---
 
 ## 📂 Project Structure
-├── main.c # Entry point, menu handling
-├── contacts.c # Core features
-├── contacts.h # Function declarations & struct
-├── validation.c # Validation logic
-├── validation.h # Validation headers
-├── Addressbookcontacts.csv # Stored data file
+<pre> ```text ├── main.c # Entry point, menu handling ├── contacts.c # Core features ├── contacts.h # Function declarations & struct ├── validation.c # Validation logic ├── validation.h # Validation headers ├── Addressbookcontacts.csv # Stored data file ``` </pre>
