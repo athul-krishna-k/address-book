@@ -38,7 +38,6 @@ It allows users to add, search, edit, delete, list, and save contacts with input
 ---
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 ```
 ├── main.c              # Entry point, menu handling
